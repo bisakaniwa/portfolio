@@ -1,0 +1,17 @@
+body {
+   margin: 0;
+   padding: 0;
+   border: 0;
+   height: 100%;
+   width: 100%;
+}
+
+@font-face {
+   font-family: "Noto Sans", sans-serif;
+   src: url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+}
+
+@font-face {
+   font-family: "Josefin Sans", sans-serif;
+   src: url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+}
